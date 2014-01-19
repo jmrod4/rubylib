@@ -9,10 +9,10 @@ You can redistribute and/or modify this software under the terms of the
 license GNU GPL v3 or later. See the license full text in the included file
 LICENSE.
 
-built-in class extensions
--------------------------
+Extensions for built-in classes
+-------------------------------
 
-### Float class
+### Float
 
-- `signif(significant_digits)`
-- `eng_notation(precision)`
+- method `signif(significant_digits)`
+- method `eng_notation(precision)`
