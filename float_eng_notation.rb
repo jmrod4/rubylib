@@ -1,7 +1,7 @@
 # encoding: UTF-8
 # extend Float class
 class Float
-  # Return an engineering notation string
+  # return a string with the number in engineering notation.
   #
   # an string with the minimal representation of the +value+
   # that keeps at least +precision+ and followed by a unit prefix

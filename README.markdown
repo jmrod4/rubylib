@@ -14,5 +14,7 @@ Extensions for built-in classes
 
 ### Float
 
-- method `signif(significant_digits)`
-- method `eng_notation(precision)`
+- method `signif(significant_digits)` return a float rounded to the
+  specified +significant_digits+
+- method `eng_notation(precision)` return a string with the number in
+  engineering notation.
