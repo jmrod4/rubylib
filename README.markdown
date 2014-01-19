@@ -12,9 +12,9 @@ LICENSE.
 Extensions for built-in classes
 -------------------------------
 
-### Float
+### Float methods
 
-- method `signif(significant_digits)` return a float rounded to the
-  specified +significant_digits+
-- method `eng_notation(precision)` return a string with the number in
+- `signif(significant_digits)` return a float rounded to the
+  specified significant digits.
+- `eng_notation(precision)` return a string with the number in
   engineering notation.
