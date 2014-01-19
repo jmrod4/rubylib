@@ -14,5 +14,5 @@ built-in class extensions
 
 ### Float class
 
-- signif(significant_digits)
-- eng_notation(precision)
+- `signif(significant_digits)`
+- `eng_notation(precision)`
